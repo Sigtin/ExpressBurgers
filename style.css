@@ -1,0 +1,28 @@
+/* #FFB755 #C2331A #FFD341 #78320F #FFB557 */
+
+header{
+    background-color: #ffb755;
+    color: #78320f;
+    margin-right: 10%;
+    text-align: center;
+}
+
+body{
+    background-color: #FFB557;
+    color: #C2331A;
+    margin-right: 5%;
+    text-align: justify;
+    text-align-last: left;
+    font-family: 'Helvetica Neue', Helvetica, sans-serif
+}
+
+/*Note Light Text on Dark BG*/
+footer{
+    background-color: #78320F;
+    color: #FFB557;
+    font-family: 'Courier New', Courier, monospace
+}
+
+/*Hey, let's make a company called "Modern Designs!"*/
+/*What should our logo be?*/
+/*I dunno, it should be F***ING COMIC SANS OR SOMETHING! ARE YOU KIDDING MEEEEEEE!?*/
