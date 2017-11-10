@@ -1,0 +1,9 @@
+{
+    "pictures":[
+        ["Chicken Nuggets", "./images/chicken-nuggets.jpeg"],
+        ["Chicken Wings", "./images/chicken-wings.jpg"],
+        ["French Fries", "./images/french-fries.jpeg"],
+        ["Onion Rings", "./images/onion-rings.jpg"],
+        ["Salad", "./images/salad.jpg"]
+    ]
+}

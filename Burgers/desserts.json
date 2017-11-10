@@ -1,0 +1,9 @@
+{
+    "pictures":[
+        ["Cheesecake", "./images/cheesecake.jpg"],
+        ["Cookies", "./images/cookies.jpg"],
+        ["Ice Cream", "./images/ice-cream.jpg"],
+        ["Milkshakes", "./images/milkshakes.jpg"],
+        ["Smoothies", "./images/smoothies.jpg"]
+    ]
+}

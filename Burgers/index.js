@@ -4,8 +4,8 @@ var path = require('path');
 var config = require('./config.json');
 var entrees = require('./entrees.json');
 var drinks = require('./drinks.json');
-// var sides = require('./sides.json');
-// var desserts = require('./desserts.json');
+var sides = require('./sides.json');
+var desserts = require('./desserts.json');
 
 var app = express();
 
@@ -23,7 +23,9 @@ app.get('/:viewname', function(req, res){
     res.render(req.params.viewname, {
         "config": config,
         "entrees": entrees,
-        "drinks": drinks
+        "drinks": drinks,
+        "sides": sides,
+        "desserts": desserts
     });
 });
 
