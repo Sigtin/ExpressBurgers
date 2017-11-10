@@ -6,4 +6,6 @@ block vars
 block content
     p This is my entree page!
     each picture in entrees.pictures
-        img(src=picture[1])
+        div
+            p #{picture[0]}
+            img(src=picture[1])

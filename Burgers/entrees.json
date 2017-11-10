@@ -1,9 +1,9 @@
 {
     "pictures":[
-        ["All_American", "./images/all-american.jpg"],
+        ["All American Burger", "./images/all-american.jpg"],
         ["BLT", "./images/blt.jpg"],
-        ["Mushroom_Burger", "./images/mushroom.jpg"],
-        ["Super_Burger", "./images/super.jpg"],
-        ["Turkey_Burger", "./images/turkey.jpeg"]
+        ["Mushroom Burger", "./images/mushroom.jpg"],
+        ["Super Burger", "./images/super.jpg"],
+        ["Turkey Burger", "./images/turkey.jpeg"]
     ]
 }

@@ -1,0 +1,9 @@
+{
+    "pictures":[
+        ["Coffee", "./images/coffee.jpg"],
+        ["Coke Products", "./images/coke-products.jpg"],
+        ["Iced Tea", "./images/iced-tea.jpg"],
+        ["Assorted Juices", "./images/juice.jpg"],
+        ["Milk", "./images/milk.jpg"]
+    ]
+}
