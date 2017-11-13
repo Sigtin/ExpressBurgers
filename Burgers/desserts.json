@@ -1,9 +1,9 @@
 {
     "pictures":[
-        ["Cheesecake", "./images/cheesecake.jpg"],
-        ["Cookies", "./images/cookies.jpg"],
-        ["Ice Cream", "./images/ice-cream.jpg"],
-        ["Milkshakes", "./images/milkshakes.jpg"],
-        ["Smoothies", "./images/smoothies.jpg"]
+        ["Cheesecake", "./images/cheesecake.jpg", "The main, and thickest layer, consists of a mixture of soft, fresh cheese (typically cream cheese or ricotta), eggs, and sugar"],
+        ["Cookies", "./images/cookies.jpg", "Baked fresh everyday"],
+        ["Ice Cream", "./images/ice-cream.jpg", "Made in-house. No artificial flavors or colors"],
+        ["Milkshakes", "./images/milkshakes.jpg", "Made with fresh milk daily"],
+        ["Smoothies", "./images/smoothies.jpg", "Combine all your favorite fruits with our fresh smoothies"]
     ]
 }

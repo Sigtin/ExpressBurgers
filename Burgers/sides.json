@@ -1,9 +1,9 @@
 {
     "pictures":[
-        ["Chicken Nuggets", "./images/chicken-nuggets.jpeg"],
-        ["Chicken Wings", "./images/chicken-wings.jpg"],
-        ["French Fries", "./images/french-fries.jpeg"],
-        ["Onion Rings", "./images/onion-rings.jpg"],
-        ["Salad", "./images/salad.jpg"]
+        ["Chicken Nuggets", "./images/chicken-nuggets.jpeg", "Most stores have Nuggets as an entree. Not us"],
+        ["Chicken Wings", "./images/chicken-wings.jpg", "Comes in mild, spicy, or hellfire"],
+        ["French Fries", "./images/french-fries.jpeg", "Fresh and salty"],
+        ["Onion Rings", "./images/onion-rings.jpg", "A cut above the rest"],
+        ["Salad", "./images/salad.jpg", "For the veggie lovers in the house"]
     ]
 }

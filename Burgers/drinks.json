@@ -1,9 +1,9 @@
 {
     "pictures":[
-        ["Coffee", "./images/coffee.jpg"],
-        ["Coke Products", "./images/coke-products.jpg"],
-        ["Iced Tea", "./images/iced-tea.jpg"],
-        ["Assorted Juices", "./images/juice.jpg"],
-        ["Milk", "./images/milk.jpg"]
+        ["Coffee", "./images/coffee.jpg", "Need help staying awake? This is for you"],
+        ["Coke Products", "./images/coke-products.jpg", "Plain soda that's still good"],
+        ["Iced Tea", "./images/iced-tea.jpg", "If you like hot leaf juice, this is a great choice"],
+        ["Assorted Juices", "./images/juice.jpg", "We have all your favorite flavors"],
+        ["Milk", "./images/milk.jpg", "Comes in chocolate or plain. We also have a non-fat version"]
     ]
 }

@@ -1,9 +1,9 @@
 {
     "pictures":[
-        ["All American Burger", "./images/all-american.jpg"],
-        ["BLT", "./images/blt.jpg"],
-        ["Mushroom Burger", "./images/mushroom.jpg"],
-        ["Super Burger", "./images/super.jpg"],
-        ["Turkey Burger", "./images/turkey.jpeg"]
+        ["All American Burger", "./images/all-american.jpg", "Satisfy your inner American with this special burger"],
+        ["BLT", "./images/blt.jpg", "If you want comfort food, this is for you"],
+        ["Mushroom Burger", "./images/mushroom.jpg", "For those who don't hate mushrooms"],
+        ["Super Burger", "./images/super.jpg", "Gon big or go home"],
+        ["Turkey Burger", "./images/turkey.jpeg", "Non-traditional, still great"]
     ]
 }

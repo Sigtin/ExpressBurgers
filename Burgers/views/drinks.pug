@@ -4,8 +4,7 @@ block vars
     -var title = "Drinks";
 
 block content
-    p This is my drinks page!
     each picture in drinks.pictures
         div
-            p #{picture[0]}
+            p #{picture[0]}: #{picture[2]}
             img(src=picture[1], class="image")
